@@ -1,0 +1,136 @@
+Ajanslar
+
+Anadolu Ajansı (AA) - http://www.aa.com.tr/tr/rss/default?cat=guncel
+Doğan Haber Ajansı (DHA) - http://www.dha.com.tr/rss.asp
+İhlas Haber Ajansı (İHA) - http://www.iha.com.tr/rss.aspx
+Kafkas Haber Ajansı (KHA) - http://www.kha.com.tr/rss.php
+
+Ulusal gazeteler
+Genel
+Akşam Gazetesi - http://www.aksam.com.tr/cache/rss.xml
+Anayurt Gazetesi - http://www.anayurtgazetesi.com/sondakika.xml
+Aydınlık Gazetesi - http://www.aydinlikgazete.com/rss
+Balkan Günlüğü - http://www.balkangunlugu.com/feed
+Cumhuriyet Gazetesi - http://www.cumhuriyet.com.tr/rss/son_dakika.xml
+Dünya Gazetesi - http://www.dunya.com/rss?dunya
+Evrensel Gazetesi - http://www.evrensel.net/rss/haber.xml
+Gerçek Gündem - http://www.gercekgundem.com/rss
+Haber Türk - http://www.haberturk.com/rss
+Hürriyet Gazetesi - http://mix.chimpfeedr.com/07479-Hurriyet-Gazetesi (pazil-16.png)
+İlk Kurşun Gazetesi - http://www.ilk-kursun.com/feed
+Milat Gazetesi - http://www.milatgazetesi.com/rss.asp
+Millet Gazetesi - http://www.millet.com.tr/haberler.xml
+Milliyet Gazetesi - http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml
+Önce Vatan Gazetesi - http://www.oncevatan.com.tr/rss.php
+Sabah Gazetesi - http://mix.chimpfeedr.com/d1bed-Sabah-Gazetesi (pazil-16.png)
+Star Gazetesi - http://www.stargazete.com/rss/rss.asp
+Takvim Gazetesi - http://www.takvim.com.tr/rss/AnaSayfa.xml
+Taraf Gazetesi - http://www.taraf.com.tr/feed
+Türkiye Gazetesi - http://www.turkiyegazetesi.com.tr/rss/rss.xml
+Türkiye'de Vakit - http://www.vakit.com.tr/rss.php
+Vatan Gazetesi - http://mix.chimpfeedr.com/68482-Vatan-Gazetesi (pazil-16.png | takvim-16.png)
+Yeni Akit Gazetesi - http://www.yeniakit.com.tr/haber/rss
+Yeni Asır Gazetesi - http://www.yeniasir.com.tr/rss/Anasayfa.xml
+Yeni Çağ Gazetesi - http://www.yenicaggazetesi.com.tr/rss
+Yeni Mesaj Gazetesi - http://www.yenimesaj.com.tr/rss.php
+Yeni Şafak Gazetesi - http://yenisafak.com.tr/Rss
+Yurt Gazetesi - http://www.yurtgazetesi.com.tr/rss.php
+Zaman Gazetesi - http://www.zaman.com.tr/sondakika.rss
+Tematik
+Spor
+Amk Spor Gazetesi - http://amkspor.com/feed
+Fotomaç - http://www.fotomac.com.tr/rss/anasayfa.xml
+Fotospor - http://feeds.feedburner.com/fotospor/feed
+Televizyonlar
+A Haber Televizyonu - http://www.ahaber.com.tr/rss/AnaSayfa.xml
+Artı Bir TV - http://www.haberartibir.com.tr/rss.php
+Bloomberg HT - http://www.bloomberght.com/rss
+CNBC-e - http://www.cnbce.com/rss/haber
+CNN Türk - http://www.cnnturk.com/feed/rss/news
+Euronews - http://feeds.feedburner.com/euronews/tr/home
+Haber Türk - http://www.haberturk.com/rss
+İMC TV - http://www.imctv.com.tr/feed/
+NTV - http://mix.chimpfeedr.com/6ab71-NTV (pazil-16.png)
+TGRT Haber - http://www.tgrthaber.com.tr/feed/index.rss
+TRT Haber - http://www.trthaber.com/sondakika.rss
+TV 5 - http://www.tv5haber.com/rss.php
+Ulusal Kanal - http://www.ulusalkanal.com.tr/rss.php
+Web siteleri
+Açık Gazete - http://www.acikgazete.com/feed
+Ajans Haber - http://www.ajanshaber.com/rss
+Aktif Haber - http://www.aktifhaber.com/rss
+Al Jazeera Turk - http://aljazeera.com.tr/rss.xml
+Amerika Bülteni - http://feeds.feedburner.com/amerikabulteni
+Ankara Rewiew - http://www.ankarareview.com/feed
+Ay Gazete - http://www.aygazete.com/rss/gundem-haberleri
+Bas News - http://www.basnews.com/index.php/tr/detail/content/195-basnews-tr?format=feed&type=rss
+Başka Haber - http://www.baskahaber.org/feeds/posts/default
+BBC Türkçe - http://www.bbc.co.uk/turkce/index.xml
+Bianet - http://www.bianet.org/bianet.rss
+Canlı Haber - http://www.canlihaber.com/rss/
+Dipnot - http://www.dipnot.tv/feed/
+Diken - http://www.diken.com.tr/feed/
+DW - http://rss.dw.com/rdf/rss-tur-all
+En Son Haber - http://www.ensonhaber.com/rss/ensonhaber.xml
+Eurovizyon - http://www.eurovizyon.co.uk/rss.php
+F5 Haber - http://www.f5haber.com/rss/haberler.xml
+Futbol Sayfası - https://www.futbolsayfasi.net/feed
+Gazeteci TV - http://www.gazeteci.tv/rss.xml
+Gazeteciler.com - http://www.gazeteciler.com/sondakika.rss
+Gezi Press - http://www.gezipress.com/rss.xml
+Girişim Haber - http://www.girisimhaber.com/rss.xml
+Gri Hat - http://grihat.com.tr/rss/
+Habere Git - http://www.haberegit.net/feed
+Haberdar - http://www.haberdar.com/rss
+Haber Ettik - http://www.haberettik.com/rss
+Haber Kulesi - http://www.haberkulesi.com/rss.asp
+Haber Yudum - http://www.haberyudum.com/rss
+Haber Vaktim - http://www.habervaktim.com/sondakika.xml
+Turbo Tuning - http://www.turbotuning.gen.tr/feed
+Haberler.Com - http://rss.haberler.com/rss.asp?kategori=sondakika
+Haber Takva - http://www.habertakva.com/rss.php
+Haber X - http://www.haberx.com/haberx.rss
+Haber7 - http://sondakika.haber7.com/sondakika.rss
+Halkın Habercisi - http://www.halkinhabercisi.com/feed
+İleri Haber - http://ilerihaber.org/rss.xml
+İnadına Haber - http://inadinahaber.org/feed
+İnternet Haber - http://www.internethaber.com/rss/last_min.xml
+Kampüs Haber - http://www.kampushaber.com/rss.xml
+Karşı Gazete - http://www.karsigazete.com.tr/rss.php
+Kayseri Olay - http://kayseriolay.com/rss.php
+Manşet Haber - http://www.mansethaber.com/rss.xml
+Medya Pusula - http://www.medyapusula.com/rss.xml
+Milli Refleks - http://millirefleks.com/rss.xml
+Mynet Haber - http://www.mynet.com/haber/rss/son-dakika
+National Türk - http://www.nationalturk.com/feed
+Nazilli News - http://www.nazillinews.com/feed
+Objektif Haber - http://www.objektifhaber.com/sondakika.rss
+Oda TV - http://www.odatv.com/rss.php
+Platform 24 - http://platform24.org/rss
+Politik Kedi - http://politikkedi.com/feed
+Press Haber - http://www.presshaber.com/feed
+Press Turk - http://www.pressturk.com/rss.xml
+Radikal Gazetesi - http://www.radikal.com.tr/d/rss/RssSD.xml
+Rota Haber - http://www.rotahaber.com/rss
+Rûdaw - http://rudaw.net/turkish/rss?type=top
+Sansürsüz - http://sansursuz.com/feed
+Sendika.Org - http://haberss.org/dosya/rss/sendika.org
+Siyasi Haber - http://siyasihaber.org/feed
+Sol Haber Portalı - http://haber.sol.org.tr/rss.xml
+Son Dakika - http://rss.sondakika.com/rss_standart.asp
+Son Sayfa - http://www.sonsayfa.com/rss.xml
+Sonsöz Gazetesi - http://sonsoz.com.tr/feed/
+Spot Haber - http://www.spothaber.com/rss
+Sputnik Türkiye - http://tr.sputniknews.com/export/rss2/archive/index.xml
+Taraftar Haber - http://www.taraftarhaber.com/rss.xml
+Tevhid-i Gündem - http://www.tevhidigundem.info/rss
+Ticari Haber - http://ticarihaber.net/feed
+Turizm Ekstra Haber - http://www.turizmekstra.com/rss.xml
+Turan Sesi - http://turansesi.com/rss.xml
+Türkiye Haber Ajansı - http://www.turkiyehaberajansi.com/rss.xml
+Ülke Haber - http://www.ulkehaber.com/rss/sondakika.xml
+Yakın Doğu Haber - http://www.ydh.com.tr/rss.xml
+YakınPlan TV - http://www.yakinplan.com/feed
+Yeni Dünya - http://yenidunya.org/rss.xml
+Yeni İkdam - http://yeniikdam.com/rss.xml
+Binbiryol İlan https://www.binbiryol.com/xml/rss.xml
